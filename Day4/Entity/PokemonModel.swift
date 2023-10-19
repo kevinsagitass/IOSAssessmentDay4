@@ -8,5 +8,7 @@
 import Foundation
 
 struct PokemonModel {
+    let id, power: Int64
     let name, type: String
 }
+
